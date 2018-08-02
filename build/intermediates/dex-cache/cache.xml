@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/abeer_1993/Downloads/CustomList-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/abeer_1993/Downloads/CustomList-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_722321d4854073094691d38cfc0428ca9bbfc6fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abeer_1993/Downloads/CustomList-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/abeer_1993/Downloads/CustomList-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_357c552492ffaca2f175a111dc49ba8a16f239b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abeer_1993/Downloads/CustomList-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/abeer_1993/Downloads/CustomList-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_d22d108d2b405303bb4a26de6133b560032f1426.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abeer_1993/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/abeer_1993/Downloads/CustomList-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_1687873c3948c23d9b37bfdb082ba60a85de50bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abeer_1993/Downloads/CustomList-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/abeer_1993/Downloads/CustomList-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_24ceced7757b0d231dbd4def2123b1a3a83a05e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abeer_1993/Downloads/CustomList-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/abeer_1993/Downloads/CustomList-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_30064040cec51a12fd9a54163f2310f0e05b0b58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abeer_1993/Downloads/CustomList-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/abeer_1993/Downloads/CustomList-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_e94811fb364729058c9fcade4d7da30997b45689.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abeer_1993/Downloads/CustomList-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/abeer_1993/Downloads/CustomList-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_2ee31638012bf1953f41ff68ca695d0d0670191c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abeer_1993/Downloads/CustomList-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/abeer_1993/Downloads/CustomList-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_644b2a03be71134b6637e008627cda057d92fd0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abeer_1993/Downloads/CustomList-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/abeer_1993/Downloads/CustomList-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_46123fd1b275c9423f26a2da67aabb1002df3888.jar" />
+    </item>
+
+</items>
